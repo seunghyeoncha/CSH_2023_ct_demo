@@ -1,0 +1,66 @@
+const reference = [
+  {
+    author: "Reinier Flaes",
+    title: "Laboratory experiment",
+    year: "2018",
+    sourceTitle: "",
+    link: "https://www.behance.net/gallery/70209981/Laboratory-experiment?tracking_source=for_you_recommendations",
+  },
+  {
+    author: "3d Molier International",
+    title: "Hologram Remote Control Pane",
+    year: "2019",
+    sourceTitle: "",
+    link: "https://www.turbosquid.com/3d-models/hologram-remote-control-panel-3d-model-1419693?referral=aj-alhejaj",
+  },
+  {
+    author: "Stuart Jennett",
+    title: "",
+    year: "2020",
+    sourceTitle: "",
+    link: "https://www.artstation.com/artwork/kDebbK",
+  },
+  {
+    author: "capitanraketa /",
+    title: "",
+    year: "2019",
+    sourceTitle: "",
+    link: "https://www.artstation.com/artwork/DxwK5n",
+  },
+  {
+    author: " azumamakoto ",
+    title: "式冬",
+    year: "2017",
+    sourceTitle: "",
+    link: "https://azumamakoto.com/1596/",
+  },
+  {
+    author: " Paul Furman ",
+    title: "",
+    year: "2011",
+    sourceTitle: "",
+    link: "https://www.flickr.com/photos/edgehill/5555359512/",
+  },
+
+  {
+    author: "",
+    title: "",
+    year: "",
+    sourceTitle: "pinterest",
+    link: "https://www.pinterest.co.kr/pin/32369691064934862/",
+  },
+  {
+    author: "",
+    title: "",
+    year: "",
+    sourceTitle: "pinterest",
+    link: "https://www.pinterest.co.kr/pin/677228862741891179/",
+  },
+  {
+    author: "",
+    title: "",
+    year: "",
+    sourceTitle: "pinterest",
+    link: "https://www.pinterest.co.kr/pin/11681280277388083/",
+  },
+];
